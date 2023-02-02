@@ -1,5 +1,5 @@
 # Student-Assesment-Database
-![logo](https://imgur.com/uzjDFtS)
+![logo]([https://i.imgur.com/uzjDFtS.png])
 # Introduction
 ## The Project
   * Brief about this program it is an Automated library management system
