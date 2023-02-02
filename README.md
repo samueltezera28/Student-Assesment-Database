@@ -1,6 +1,8 @@
 # Student-Assesment-Database
 ![logo](https://i.imgur.com/uzjDFtS.png)
 # Introduction
+## Main objective
+* The main objective of the system is to construct database for university registrar that maintains information regarding continuos assesment result of students
 ## The Project
   * Brief about this program it is an Automated library management system
   * It can add a book at the beginning of the list and
