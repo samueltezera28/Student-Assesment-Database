@@ -15,6 +15,7 @@
   * list of instructors along with course titles and semester and year they teach each course
 # Tutorial
 Here is a little preview of the main feature:
+* This is how Students will registerd to the database
 ![logo](https://i.imgur.com/VXb7RKi.png)
 ![logo](https://i.imgur.com/TpGBtnQ.png)
 ![logo](https://i.imgur.com/dvj2smY.png)
