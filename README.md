@@ -15,9 +15,10 @@
   * list of instructors along with course titles and semester and year they teach each course
 # Tutorial
 Here is a little preview of the main feature:
-* This is how Students will registerd to the database
+* This is how Students will register and assign to courses and this role is  only for Admins 
 ![logo](https://i.imgur.com/VXb7RKi.png)
 ![logo](https://i.imgur.com/TpGBtnQ.png)
+* Instrctors have diffrent portals to manage their students and update Assements 
 ![logo](https://i.imgur.com/dvj2smY.png)
 ![logo](https://i.imgur.com/3WHFvv8.png)
 ![logo](https://i.imgur.com/pOWro0T.png)
