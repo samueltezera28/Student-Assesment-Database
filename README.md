@@ -3,16 +3,16 @@
 # Introduction
 ## Main objective
 * The main objective of the system is to construct database for university registrar that maintains information regarding continuos assesment result of students
-## The Project
-  * Brief about this program it is an Automated library management system
-  * It can add a book at the beginning of the list and
-  * At the end of the list
-  * It sort the list based on Title and ISBN
-  * It can Traverse and Display all the books Added to the list form first to last
-  * It Search a book using Title , ISBN and Author
-  * It can Update the books detail
-  * Delete a specific book from Booklist Using ISBN and Title
-
+## The database support instructors for the following activities
+  * Give list of students (id,name,section and gender ) which are taught by a given instructor in a given semster
+  * maintain continous assessment results
+  * List of students that are absent in a particular assessment
+  * continuous assessment result of a student in a given course for a specified semester and year
+  * Summary of continuous assessment result of a given student for a specified course that includes full assessment informaion
+  * Which course the students scored an 'F'
+  * list of students along with the total number of main courses,common courses and elective course they took
+  * List of students along with the number of 'A's,'B's etc they scored so far
+  * list of instructors along with course titles and semester and year they teach each course
   ## The Context 
   This project is our Portfolio Project, Concluding our Data Structure and Algorithm course at Unity University.
   ## The Team
