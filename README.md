@@ -27,15 +27,15 @@ Here is a little preview of the main feature:
 * It can calculate Grade 
 ![logo](https://i.imgur.com/pOWro0T.png)
 ![logo](https://i.imgur.com/5whQhfB.png)
-  ## The Team
-  * **Samuel Tezera**
-  * **Robel Iffa**
-  * **Yakob Hamda**
-  * **Estifanos Ayalew**
-  * **Hermela Eyasu**
-## Overview
-Our app is a single-page app, coded mainly in c++. **Booklist** is Back-end heavy,meaning that we focused our time and energy in developing a the backend to develop our understanding of data strucure and algorithm knowledge. 
 
-# Tutorial
-| [Booklist.exe](./Booklist.exe) | The compiled and excutable program. |
-| [Booklist.cpp](./Booklist.cpp) | The main c++ resource file . |
+## Code Snippet and Diagram
+![logo](https://i.imgur.com/mMZRB75.png)
+![logo](https://i.imgur.com/93bUDUd.png)
+
+## Overview
+
+## The Team
+  * **Samuel Tezera**
+  * **Yakob Hamda**
+  * **Tamrat Wondafrash**
+
