@@ -18,9 +18,13 @@ Here is a little preview of the main feature:
 * This is how Students will register and assign to courses and this role is  only for Admins 
 ![logo](https://i.imgur.com/VXb7RKi.png)
 ![logo](https://i.imgur.com/TpGBtnQ.png)
+* Instructors
 * Instrctors have diffrent portals to manage their students and update Assements 
 ![logo](https://i.imgur.com/dvj2smY.png)
 ![logo](https://i.imgur.com/3WHFvv8.png)
+* Student
+* This portal is for students to see their Assesment using only their id 
+* It can calculate Grade 
 ![logo](https://i.imgur.com/pOWro0T.png)
 ![logo](https://i.imgur.com/5whQhfB.png)
   ## The Team
